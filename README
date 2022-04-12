@@ -9,18 +9,4 @@ install expo-image-picker
 
 
 
-FAIZANS STACK
-    GIT
-    Jenkins
-    Datadog or Prisma-CI/CD Scanning
-    Maven
-
-
-DEV OPS
-    Config Managment: Ansible
-    kubernetes - automating containerized apps 
-
-    Jenkins - Cont. intergration and dev
-        build / test / deploy
-
     
