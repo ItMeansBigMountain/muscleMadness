@@ -1,0 +1,26 @@
+npm install @react-navigation/native
+
+expo install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/native-stack
+
+install expo-image-picker
+
+
+
+
+FAIZANS STACK
+    GIT
+    Jenkins
+    Datadog or Prisma-CI/CD Scanning
+    Maven
+
+
+DEV OPS
+    Config Managment: Ansible
+    kubernetes - automating containerized apps 
+
+    Jenkins - Cont. intergration and dev
+        build / test / deploy
+
+    
