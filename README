@@ -10,3 +10,6 @@ install expo-image-picker
 
 
     
+DEPLOYMENT NOTES
+    config endpoints from hosted REST_api in ../config
+    
